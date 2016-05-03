@@ -1,0 +1,109 @@
+
+<html>
+
+	<head>
+		<title>과제제목는 여기</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+	</head>
+
+
+	<body background="http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2012/08/minimal-background-pattern-wordpress-1.jpg"> 배경사진링크
+
+
+		<div class="jumbotron">
+			<div class="row text-center">
+				<h1 class="text-center"> <font color="c69d9d"> 과제제목 </font></h1> 
+				<img src="" />사진첨부링크
+			</div>
+		</div>
+
+
+		<div class="container">
+			
+			<div class="row">
+			
+				
+			</div>
+
+
+                    <div class="row text-center">
+			<div class="jumbotron">
+<font color="496b49">과제선정 목적 등등.
+<br /> </font>
+                        </div>
+                     </div>
+
+
+			<div class="row">
+			
+				<div class="col-md-4">	
+				<h1 class="text-center"><font color="0a3d42">측정내용1</font></h1>
+
+<p>내용</p>
+
+				</div>
+
+				<div class="col-md-4">
+						<h1 class="text-center"><font color="0a3d42">측정내용2</font></h1>
+<p>내용</p>
+				</div>
+
+				<div class="col-md-4">
+					<h1 class="text-center"><font color="0a3d42">측정내용3</font></h1>
+
+<p>내용 </p>				
+</div>
+
+			</div>
+
+
+			<br />
+
+
+			<div class="row text-center">
+				<div class="jumbotron">
+                                      <h3>설명내용</h3>
+				<br />
+				<br />
+				여기서 영상물/그림 등 보조자료 들어 갈 예정
+			</div>
+				</div> 		   
+
+			<div class = "row text-center">
+			<div class="jumbotron">
+                        <h3>보조 설명</h3>
+                        <br />사진첨부가능함
+                        </div>
+			</div>
+				<br />
+
+				<br />
+
+			<br />
+
+			위와같은 설명이 더 필요할때 추가 내용이 들어가면 됩니다
+			
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	
+
+			</div> 
+		</div>
+		
+	
+				<div class="jumbotron">
+				<div class="row text-center">
+					<h3><font color="0a3d42">참고자료출처표시</font></h3></div>
+					<br />
+					
+		</div>
+		
+	
+
+	</body>
+</html>
